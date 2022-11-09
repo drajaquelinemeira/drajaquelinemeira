@@ -1,0 +1,976 @@
+ .u-section-1 {
+  min-height: 1066px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: calc(((100% - 1140px) / 2) + 1140px);
+  margin: 31px 0 60px auto;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 970px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 0 40px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 0 auto 0 54px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 3.75rem;
+  font-weight: 300;
+  margin: 28px 52px 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.125rem;
+  margin: 20px 52px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 1.125rem;
+  margin: 28px auto 0 52px;
+  padding: 20px 30px 21px 29px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 970px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 15px 30px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 455px;
+  height: 757px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 735px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: calc(((100% - 940px) / 2) + 940px);
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 800px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 4px;
+    margin-right: 4px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 4px;
+    margin-right: 3px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 4px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 800px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 426px;
+    height: 709px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 547px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: calc(((100% - 720px) / 2) + 720px);
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 200px;
+    padding-bottom: 30px;
+    padding-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 772px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 744px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: calc(((100% - 540px) / 2) + 540px);
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 696px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 509px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: calc(((100% - 340px) / 2) + 340px);
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 60px;
+    padding-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 438px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 320px;
+    height: 533px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 520px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 0 0 60px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 400px;
+  background-image: url("images/jm-estetica-saude-clinica-estetica3.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 400px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0 13px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: -3px 40px 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 27px 12px 0 auto;
+}
+
+.u-section-2 .u-btn-1 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 1.125rem;
+  margin: 154px auto 0;
+  padding: 20px 30px 21px 29px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 450px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    position: relative;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 330px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 330px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 373px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 253px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 600px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 380px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 459px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 239px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 1061px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 750px;
+  background-image: url("images/botox2.jpg");
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 785px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 14px 0 0;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 0 48px;
+}
+
+.u-section-3 .u-image-2 {
+  width: 322px;
+  height: 451px;
+  margin: 45px 115px 0 auto;
+}
+
+.u-section-3 .u-text-3 {
+  font-size: 1.125rem;
+  margin: 0 129px 0 auto;
+}
+
+.u-section-3 .u-btn-1 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 1.125rem;
+  margin: 40px 30px 0 auto;
+  padding: 20px 30px 21px 29px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 908px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 618px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 647px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 740px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 473px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-right: 38px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-right: 99px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1116px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 710px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 810px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 447px;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-right: 18px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 1006px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: -180px;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 400px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-4 .u-image-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 340px;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 450px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 14px 13px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 17px auto 0 147px;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 27px 0 0;
+}
+
+.u-section-4 .u-btn-1 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 1.125rem;
+  margin: 77px auto 0;
+  padding: 20px 30px 21px 29px;
+}
+
+.u-section-4 .u-list-1 {
+  margin-top: 33px;
+  margin-bottom: 60px;
+}
+
+.u-section-4 .u-repeater-1 {
+  grid-gap: 10px 10px;
+  grid-auto-columns: calc(50% - 5px);
+  grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+  min-height: 556px;
+}
+
+.u-section-4 .u-image-2 {
+  background-image: url("images/limpeza-de-pele-itaquera-sp.jpg");
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-4 .u-image-3 {
+  background-image: url("images/tratamento-queda-cabelo-itaquera-sp.jpg");
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 927px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 330px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 273px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 371px;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 5px));
+    min-height: 457px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 809px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 253px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 200px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-left: 111px;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    grid-auto-columns: calc(100% - 0px);
+    grid-template-columns: 100%;
+    min-height: 723px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1036px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 380px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 347px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    grid-auto-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 895px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 239px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 214px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-left: 68px;
+  }
+}.u-block-f580-5 {
+  position: absolute;
+  top: auto;
+  bottom: 270px;
+}
+
+.u-block-f580-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-f580-4 {
+  position: absolute;
+  right: 0;
+}
+
+.u-section-5-1 .u-sheet-1 {
+  min-height: 756px;
+}
+
+.u-section-5-1 .u-image-1 {
+  width: 442px;
+  height: 569px;
+  margin: 0 auto;
+}
+
+.u-section-5-1 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 23px auto 0;
+}
+
+.u-section-5-1 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 48px auto 33px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5-1 .u-image-1 {
+    height: 568px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5-1 .u-sheet-1 {
+    min-height: 625px;
+  }
+
+  .u-section-5-1 .u-image-1 {
+    width: 340px;
+    height: 437px;
+  }
+}
+
+.u-section-5-2 .u-sheet-1 {
+  min-height: 1075px;
+}
+
+.u-section-5-2 .u-layout-wrap-1 {
+  margin-top: -136px;
+  margin-bottom: 60px;
+}
+
+.u-section-5-2 .u-image-1 {
+  min-height: 610px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/jm-estetica-saude-clinica-estetica5.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-5-2 .u-container-layout-1 {
+  padding: 13px 31px;
+}
+
+.u-section-5-2 .u-text-1 {
+  font-weight: 700;
+  margin: 296px auto 0 29px;
+}
+
+.u-section-5-2 .u-text-2 {
+  margin: 20px 29px 0;
+}
+
+.u-section-5-2 .u-btn-1 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 1.125rem;
+  margin: 11px auto -17px 0;
+  padding: 20px 30px 21px 29px;
+}
+
+.u-section-5-2 .u-image-2 {
+  min-height: 318px;
+  background-image: url("images/jm-estetica-saude-clinica-estetica6.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-5-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-5-2 .u-image-3 {
+  min-height: 292px;
+  background-image: url("images/jm-estetica-saude-clinica-estetica7.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-5-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-5-2 .u-image-4 {
+  min-height: 292px;
+  background-image: url("images/jm-estetica-saude-clinica-estetica1.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-5-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5-2 .u-sheet-1 {
+    min-height: 968px;
+  }
+
+  .u-section-5-2 .u-image-1 {
+    min-height: 503px;
+  }
+
+  .u-section-5-2 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-5-2 .u-image-2 {
+    min-height: 262px;
+  }
+
+  .u-section-5-2 .u-image-3 {
+    min-height: 241px;
+  }
+
+  .u-section-5-2 .u-image-4 {
+    min-height: 241px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5-2 .u-sheet-1 {
+    min-height: 2006px;
+  }
+
+  .u-section-5-2 .u-image-1 {
+    min-height: 771px;
+  }
+
+  .u-section-5-2 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-5-2 .u-image-2 {
+    min-height: 401px;
+  }
+
+  .u-section-5-2 .u-image-3 {
+    min-height: 369px;
+  }
+
+  .u-section-5-2 .u-image-4 {
+    min-height: 369px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5-2 .u-sheet-1 {
+    min-height: 2452px;
+  }
+
+  .u-section-5-2 .u-image-1 {
+    min-height: 578px;
+  }
+
+  .u-section-5-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5-2 .u-image-2 {
+    min-height: 301px;
+  }
+
+  .u-section-5-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5-2 .u-image-3 {
+    min-height: 554px;
+  }
+
+  .u-section-5-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5-2 .u-image-4 {
+    min-height: 554px;
+  }
+
+  .u-section-5-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5-2 .u-sheet-1 {
+    min-height: 1717px;
+  }
+
+  .u-section-5-2 .u-image-1 {
+    min-height: 364px;
+  }
+
+  .u-section-5-2 .u-image-2 {
+    min-height: 190px;
+  }
+
+  .u-section-5-2 .u-image-3 {
+    min-height: 349px;
+  }
+
+  .u-section-5-2 .u-image-4 {
+    min-height: 349px;
+  }
+}
+
+.u-section-5-3 .u-sheet-1 {
+  min-height: 900px;
+}
+
+.u-section-5-3 .u-image-1 {
+  width: 442px;
+  height: 695px;
+  margin: 15px auto 0;
+}
+
+.u-section-5-3 .u-text-1 {
+  font-size: 1.125rem;
+  margin: 23px auto 0;
+}
+
+.u-section-5-3 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 23px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5-3 .u-image-1 {
+    height: 694px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5-3 .u-sheet-1 {
+    min-height: 740px;
+  }
+
+  .u-section-5-3 .u-image-1 {
+    width: 340px;
+    height: 534px;
+  }
+} .u-section-6 {
+  background-image: none;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 640px;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.u-section-6 .u-layout-cell-1 {
+  min-height: 500px;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-6 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-6 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-6 .u-text-3 {
+  margin: 0;
+}
+
+.u-section-6 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-6 .u-text-4 {
+  margin: 0;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  min-height: 500px;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 500px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: auto;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
