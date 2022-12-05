@@ -31,7 +31,7 @@
 
 .u-section-1 .u-text-3 {
   font-size: 1.125rem;
-  margin: 15px 0 0 65px;
+  margin: 16px 3px 0 62px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -84,6 +84,7 @@
   }
 
   .u-section-1 .u-text-3 {
+    margin-right: 0;
     margin-left: 0;
   }
 
@@ -546,186 +547,74 @@
     min-height: 239px;
   }
 }.u-section-5 .u-sheet-1 {
-  min-height: 891px;
+  min-height: 100vh;
 }
 
-.u-section-5 .u-layout-wrap-1 {
-  margin-top: 45px;
-  margin-bottom: 20px;
+.u-section-5 .u-list-1 {
+  margin: 62px 0 60px;
+}
+
+.u-section-5 .u-repeater-1 {
+  grid-gap: 10px 10px;
+  grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+  min-height: 556px;
 }
 
 .u-section-5 .u-image-1 {
-  min-height: 750px;
-  background-image: url("images/botox2.jpg");
-  background-position: 50% 50%;
+  background-image: url("images/limpeza-de-pele-itaquera-sp.jpg");
 }
 
 .u-section-5 .u-container-layout-1 {
-  padding: 30px;
+  padding: 0;
 }
 
-.u-section-5 .u-layout-cell-2 {
-  min-height: 826px;
+.u-section-5 .u-image-2 {
+  background-image: url("images/tratamento-queda-cabelo-itaquera-sp.jpg");
 }
 
 .u-section-5 .u-container-layout-2 {
   padding: 0;
 }
 
-.u-section-5 .u-text-1 {
-  margin: -1px auto 0;
-}
-
-.u-section-5 .u-text-2 {
-  margin: 42px 10px 0 auto;
-}
-
-.u-section-5 .u-image-2 {
-  width: 322px;
-  height: 451px;
-  margin: 57px auto 0;
-}
-
-.u-section-5 .u-text-3 {
-  font-size: 1.125rem;
-  margin: 0 auto;
-}
-
-.u-section-5 .u-btn-1 {
-  letter-spacing: 1px;
-  border-style: none;
-  font-weight: 700;
-  text-transform: uppercase;
-  background-image: none;
-  font-size: 1.125rem;
-  margin: 40px auto 0;
-  padding: 20px 18px 21px 16px;
-}
-
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 908px;
-  }
-
-  .u-section-5 .u-layout-wrap-1 {
-    position: relative;
-  }
-
-  .u-section-5 .u-image-1 {
-    min-height: 618px;
-  }
-
-  .u-section-5 .u-layout-cell-2 {
-    min-height: 681px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 740px;
-  }
-
-  .u-section-5 .u-image-1 {
-    min-height: 473px;
-  }
-
-  .u-section-5 .u-layout-cell-2 {
-    min-height: 100px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 1116px;
-  }
-
-  .u-section-5 .u-image-1 {
-    min-height: 710px;
-  }
-
-  .u-section-5 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-5 .u-sheet-1 {
-    min-height: 810px;
-  }
-
-  .u-section-5 .u-image-1 {
-    min-height: 447px;
-  }
-}.u-section-6 .u-sheet-1 {
-  min-height: 100vh;
-}
-
-.u-section-6 .u-list-1 {
-  margin: 62px 0 60px;
-}
-
-.u-section-6 .u-repeater-1 {
-  grid-gap: 10px 10px;
-  grid-template-columns: calc(50% - 5px) calc(50% - 5px);
-  min-height: 556px;
-}
-
-.u-section-6 .u-image-1 {
-  background-image: url("images/limpeza-de-pele-itaquera-sp.jpg");
-}
-
-.u-section-6 .u-container-layout-1 {
-  padding: 0;
-}
-
-.u-section-6 .u-image-2 {
-  background-image: url("images/tratamento-queda-cabelo-itaquera-sp.jpg");
-}
-
-.u-section-6 .u-container-layout-2 {
-  padding: 0;
-}
-
-@media (max-width: 1199px) {
-  .u-section-6 .u-sheet-1 {
     min-height: 927px;
   }
 
-  .u-section-6 .u-list-1 {
+  .u-section-5 .u-list-1 {
     margin-top: 262px;
     margin-right: initial;
     margin-left: initial;
   }
 
-  .u-section-6 .u-repeater-1 {
+  .u-section-5 .u-repeater-1 {
     min-height: 457px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-6 .u-sheet-1 {
+  .u-section-5 .u-sheet-1 {
     min-height: 809px;
   }
 
-  .u-section-6 .u-list-1 {
+  .u-section-5 .u-list-1 {
     margin-top: 312px;
     margin-right: initial;
     margin-left: initial;
   }
 
-  .u-section-6 .u-repeater-1 {
+  .u-section-5 .u-repeater-1 {
     grid-template-columns: 100%;
     min-height: 723px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-6 .u-sheet-1 {
+  .u-section-5 .u-sheet-1 {
     min-height: 1036px;
   }
 
-  .u-section-6 .u-list-1 {
+  .u-section-5 .u-list-1 {
     margin-top: 644px;
     margin-right: initial;
     margin-left: initial;
@@ -733,39 +622,39 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-6 .u-sheet-1 {
+  .u-section-5 .u-sheet-1 {
     min-height: 895px;
   }
 
-  .u-section-6 .u-list-1 {
+  .u-section-5 .u-list-1 {
     margin-top: 573px;
     margin-right: initial;
     margin-left: initial;
   }
-} .u-section-7 {
+} .u-section-6 {
   background-image: none;
 }
 
-.u-section-7 .u-sheet-1 {
+.u-section-6 .u-sheet-1 {
   min-height: 752px;
 }
 
-.u-section-7 .u-video-1 {
+.u-section-6 .u-video-1 {
   height: 360px;
   width: 640px;
   margin: 54px auto 0;
 }
 
-.u-section-7 .u-text-1 {
+.u-section-6 .u-text-1 {
   margin: 12px auto 0;
 }
 
-.u-section-7 .u-text-2 {
+.u-section-6 .u-text-2 {
   width: 680px;
   margin: 22px auto 0;
 }
 
-.u-section-7 .u-btn-1 {
+.u-section-6 .u-btn-1 {
   letter-spacing: 1px;
   border-style: none;
   font-weight: 700;
@@ -777,31 +666,31 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-7 .u-sheet-1 {
+  .u-section-6 .u-sheet-1 {
     min-height: 696px;
   }
 
-  .u-section-7 .u-video-1 {
+  .u-section-6 .u-video-1 {
     height: 304px;
     width: 540px;
   }
 
-  .u-section-7 .u-text-2 {
+  .u-section-6 .u-text-2 {
     width: 540px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-7 .u-sheet-1 {
+  .u-section-6 .u-sheet-1 {
     min-height: 583px;
   }
 
-  .u-section-7 .u-video-1 {
+  .u-section-6 .u-video-1 {
     height: 191px;
     width: 340px;
   }
 
-  .u-section-7 .u-text-2 {
+  .u-section-6 .u-text-2 {
     width: 340px;
   }
 }.u-block-f580-5 {
@@ -820,22 +709,22 @@
   right: 0;
 }
 
-.u-section-8-1 .u-sheet-1 {
+.u-section-7-1 .u-sheet-1 {
   min-height: 634px;
 }
 
-.u-section-8-1 .u-image-1 {
+.u-section-7-1 .u-image-1 {
   width: 442px;
   height: 555px;
   margin: 0 auto;
 }
 
-.u-section-8-1 .u-text-1 {
+.u-section-7-1 .u-text-1 {
   font-size: 1.125rem;
   margin: 10px auto 0;
 }
 
-.u-section-8-1 .u-btn-1 {
+.u-section-7-1 .u-btn-1 {
   background-image: none;
   border-style: solid;
   text-transform: uppercase;
@@ -844,51 +733,51 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-8-1 .u-image-1 {
+  .u-section-7-1 .u-image-1 {
     height: 568px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-8-1 .u-sheet-1 {
+  .u-section-7-1 .u-sheet-1 {
     min-height: 506px;
   }
 
-  .u-section-8-1 .u-image-1 {
+  .u-section-7-1 .u-image-1 {
     width: 340px;
     height: 437px;
   }
 }
 
-.u-section-8-2 .u-sheet-1 {
+.u-section-7-2 .u-sheet-1 {
   min-height: 494px;
 }
 
-.u-section-8-2 .u-layout-wrap-1 {
+.u-section-7-2 .u-layout-wrap-1 {
   margin-top: -136px;
   margin-bottom: 0;
 }
 
-.u-section-8-2 .u-image-1 {
+.u-section-7-2 .u-image-1 {
   min-height: 610px;
   background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/jm-estetica-saude-clinica-estetica5.jpeg?rand=b0cd");
   background-position: 50% 50%;
 }
 
-.u-section-8-2 .u-container-layout-1 {
+.u-section-7-2 .u-container-layout-1 {
   padding: 13px 31px;
 }
 
-.u-section-8-2 .u-text-1 {
+.u-section-7-2 .u-text-1 {
   font-weight: 700;
   margin: 296px auto 0 29px;
 }
 
-.u-section-8-2 .u-text-2 {
+.u-section-7-2 .u-text-2 {
   margin: 20px 29px 0;
 }
 
-.u-section-8-2 .u-btn-1 {
+.u-section-7-2 .u-btn-1 {
   letter-spacing: 1px;
   border-style: none;
   font-weight: 700;
@@ -899,169 +788,169 @@
   padding: 20px 30px 21px 29px;
 }
 
-.u-section-8-2 .u-image-2 {
+.u-section-7-2 .u-image-2 {
   min-height: 318px;
   background-image: url("images/jm-estetica-saude-clinica-estetica6.jpeg");
   background-position: 50% 50%;
 }
 
-.u-section-8-2 .u-container-layout-2 {
+.u-section-7-2 .u-container-layout-2 {
   padding: 30px;
 }
 
-.u-section-8-2 .u-image-3 {
+.u-section-7-2 .u-image-3 {
   min-height: 292px;
   background-image: url("images/jm-estetica-saude-clinica-estetica7.jpeg");
   background-position: 50% 50%;
 }
 
-.u-section-8-2 .u-container-layout-3 {
+.u-section-7-2 .u-container-layout-3 {
   padding: 30px;
 }
 
-.u-section-8-2 .u-image-4 {
+.u-section-7-2 .u-image-4 {
   min-height: 292px;
   background-image: url("images/jm-estetica-saude-clinica-estetica1.jpeg");
   background-position: 50% 50%;
 }
 
-.u-section-8-2 .u-container-layout-4 {
+.u-section-7-2 .u-container-layout-4 {
   padding: 30px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-8-2 .u-sheet-1 {
+  .u-section-7-2 .u-sheet-1 {
     min-height: 387px;
   }
 
-  .u-section-8-2 .u-image-1 {
+  .u-section-7-2 .u-image-1 {
     min-height: 503px;
   }
 
-  .u-section-8-2 .u-text-2 {
+  .u-section-7-2 .u-text-2 {
     margin-right: 0;
   }
 
-  .u-section-8-2 .u-image-2 {
+  .u-section-7-2 .u-image-2 {
     min-height: 262px;
   }
 
-  .u-section-8-2 .u-image-3 {
+  .u-section-7-2 .u-image-3 {
     min-height: 241px;
   }
 
-  .u-section-8-2 .u-image-4 {
+  .u-section-7-2 .u-image-4 {
     min-height: 241px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-8-2 .u-sheet-1 {
+  .u-section-7-2 .u-sheet-1 {
     min-height: 1425px;
   }
 
-  .u-section-8-2 .u-image-1 {
+  .u-section-7-2 .u-image-1 {
     min-height: 771px;
   }
 
-  .u-section-8-2 .u-container-layout-1 {
+  .u-section-7-2 .u-container-layout-1 {
     padding-left: 30px;
     padding-right: 30px;
   }
 
-  .u-section-8-2 .u-image-2 {
+  .u-section-7-2 .u-image-2 {
     min-height: 401px;
   }
 
-  .u-section-8-2 .u-image-3 {
+  .u-section-7-2 .u-image-3 {
     min-height: 369px;
   }
 
-  .u-section-8-2 .u-image-4 {
+  .u-section-7-2 .u-image-4 {
     min-height: 369px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-8-2 .u-sheet-1 {
+  .u-section-7-2 .u-sheet-1 {
     min-height: 1871px;
   }
 
-  .u-section-8-2 .u-image-1 {
+  .u-section-7-2 .u-image-1 {
     min-height: 578px;
   }
 
-  .u-section-8-2 .u-container-layout-1 {
+  .u-section-7-2 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
   }
 
-  .u-section-8-2 .u-image-2 {
+  .u-section-7-2 .u-image-2 {
     min-height: 301px;
   }
 
-  .u-section-8-2 .u-container-layout-2 {
+  .u-section-7-2 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
   }
 
-  .u-section-8-2 .u-image-3 {
+  .u-section-7-2 .u-image-3 {
     min-height: 554px;
   }
 
-  .u-section-8-2 .u-container-layout-3 {
+  .u-section-7-2 .u-container-layout-3 {
     padding-left: 10px;
     padding-right: 10px;
   }
 
-  .u-section-8-2 .u-image-4 {
+  .u-section-7-2 .u-image-4 {
     min-height: 554px;
   }
 
-  .u-section-8-2 .u-container-layout-4 {
+  .u-section-7-2 .u-container-layout-4 {
     padding-left: 10px;
     padding-right: 10px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-8-2 .u-sheet-1 {
+  .u-section-7-2 .u-sheet-1 {
     min-height: 1136px;
   }
 
-  .u-section-8-2 .u-image-1 {
+  .u-section-7-2 .u-image-1 {
     min-height: 364px;
   }
 
-  .u-section-8-2 .u-image-2 {
+  .u-section-7-2 .u-image-2 {
     min-height: 190px;
   }
 
-  .u-section-8-2 .u-image-3 {
+  .u-section-7-2 .u-image-3 {
     min-height: 349px;
   }
 
-  .u-section-8-2 .u-image-4 {
+  .u-section-7-2 .u-image-4 {
     min-height: 349px;
   }
 }
 
-.u-section-8-3 .u-sheet-1 {
+.u-section-7-3 .u-sheet-1 {
   min-height: 617px;
 }
 
-.u-section-8-3 .u-image-1 {
+.u-section-7-3 .u-image-1 {
   width: 442px;
   height: 512px;
   margin: 10px auto 0;
 }
 
-.u-section-8-3 .u-text-1 {
+.u-section-7-3 .u-text-1 {
   font-size: 1.125rem;
   margin: 10px auto 0;
 }
 
-.u-section-8-3 .u-btn-1 {
+.u-section-7-3 .u-btn-1 {
   background-image: none;
   border-style: solid;
   text-transform: uppercase;
@@ -1070,119 +959,119 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-8-3 .u-image-1 {
+  .u-section-7-3 .u-image-1 {
     height: 694px;
   }
 
-  .u-section-8-3 .u-btn-1 {
+  .u-section-7-3 .u-btn-1 {
     margin-left: 283px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-8-3 .u-btn-1 {
+  .u-section-7-3 .u-btn-1 {
     margin-left: 63px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-8-3 .u-btn-1 {
+  .u-section-7-3 .u-btn-1 {
     margin-left: 0;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-8-3 .u-sheet-1 {
+  .u-section-7-3 .u-sheet-1 {
     min-height: 499px;
   }
 
-  .u-section-8-3 .u-image-1 {
+  .u-section-7-3 .u-image-1 {
     width: 340px;
     height: 534px;
   }
-} .u-section-9 {
+} .u-section-8 {
   background-image: none;
 }
 
-.u-section-9 .u-sheet-1 {
+.u-section-8 .u-sheet-1 {
   min-height: 640px;
 }
 
-.u-section-9 .u-layout-wrap-1 {
+.u-section-8 .u-layout-wrap-1 {
   margin-top: 70px;
   margin-bottom: 70px;
 }
 
-.u-section-9 .u-layout-cell-1 {
+.u-section-8 .u-layout-cell-1 {
   min-height: 500px;
 }
 
-.u-section-9 .u-container-layout-1 {
+.u-section-8 .u-container-layout-1 {
   padding: 30px 60px;
 }
 
-.u-section-9 .u-text-1 {
+.u-section-8 .u-text-1 {
   margin: 0;
 }
 
-.u-section-9 .u-text-2 {
+.u-section-8 .u-text-2 {
   margin: 20px 0 0;
 }
 
-.u-section-9 .u-text-3 {
+.u-section-8 .u-text-3 {
   margin: 0;
 }
 
-.u-section-9 .u-btn-1 {
+.u-section-8 .u-btn-1 {
   background-image: none;
   padding: 0;
 }
 
-.u-section-9 .u-text-4 {
+.u-section-8 .u-text-4 {
   margin: 0;
 }
 
-.u-section-9 .u-layout-cell-2 {
+.u-section-8 .u-layout-cell-2 {
   min-height: 500px;
 }
 
-.u-section-9 .u-container-layout-2 {
+.u-section-8 .u-container-layout-2 {
   padding: 20px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-9 .u-sheet-1 {
+  .u-section-8 .u-sheet-1 {
     min-height: 500px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-9 .u-container-layout-1 {
+  .u-section-8 .u-container-layout-1 {
     padding-left: 30px;
     padding-right: 30px;
   }
 
-  .u-section-9 .u-container-layout-2 {
+  .u-section-8 .u-container-layout-2 {
     padding-left: 30px;
     padding-right: 30px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-9 .u-sheet-1 {
+  .u-section-8 .u-sheet-1 {
     min-height: 400px;
   }
 
-  .u-section-9 .u-layout-cell-1 {
+  .u-section-8 .u-layout-cell-1 {
     min-height: auto;
   }
 
-  .u-section-9 .u-container-layout-1 {
+  .u-section-8 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
   }
 
-  .u-section-9 .u-container-layout-2 {
+  .u-section-8 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
   }
